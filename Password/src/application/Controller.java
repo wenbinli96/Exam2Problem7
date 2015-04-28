@@ -11,6 +11,6 @@ public class Controller {
         actiontarget.setText("bugaboo");
     }
     @FXML protected void handleHelpButtonAction(ActionEvent event) {
-        actiontarget.setText("Help was clicked");
+        actiontarget.setText("Clicked");
     }
 }
